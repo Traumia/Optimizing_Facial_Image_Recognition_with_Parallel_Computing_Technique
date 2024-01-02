@@ -1,5 +1,5 @@
 # Optimizing_Facial_Image_Recognition_with_Parallel_Computing_Technique
-## Python, Tensorflow, AWS EC2, HPC
+## Python, Tensorflow, AWS EC2, HPC ,Spark
 
 * Applied deep learning neural networks such as CNN and LSTM to image recognition tasks. 
 * Setting a benchmark in terms of time and speed performance. 
